@@ -22,3 +22,8 @@ ADLS Gen2 → Azure Synapse Serverless SQL → Star Schema
 ## Tech Stack
 Azure Synapse Analytics, Serverless SQL Pool, ADLS Gen2, 
 OPENROWSET, CETAS, Star Schema, SQL
+
+## Dataset
+Source: Kaggle — Healthcare Dataset by Prasad Patil
+Link: https://www.kaggle.com/datasets/prasad22/healthcare-dataset
+55,500 rows | 15 columns
